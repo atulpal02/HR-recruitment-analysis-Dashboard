@@ -1,4 +1,4 @@
-#HR recruitment analysis Dashboard
+# HR recruitment analysis Dashboard
 
 The HR Recruitment Analysis Dashboard provides a comprehensive overview of recruitment performance, helping HR teams and decision-makers track key hiring metrics, identify bottlenecks, and optimize the overall recruitment process.
 
